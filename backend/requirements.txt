@@ -1,0 +1,11 @@
+django
+djangorestframework
+django-cors-headers
+mysqlclient
+selenium
+webdriver-manager
+langchain
+langchain-openai
+chromadb
+sentence-transformers
+python-dotenv
