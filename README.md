@@ -3,7 +3,6 @@
 An advanced RAG (Retrieval-Augmented Generation) application built with **Django, React, and Llama 3.1.
 
 ## Screenshots
-*(Screenshots yahan upload karke unke link daal dena)*
 - **Dashboard:** ![Dashboard Screenshot](./screenshots/ui_1.png)
 - **Chat Interface:** ![Chat Screenshot](./screenshots/ui_2.png)
 - **AI Response:** ![AI Response Screenshot](./screenshots/ui_3.png)
