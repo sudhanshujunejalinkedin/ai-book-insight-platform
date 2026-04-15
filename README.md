@@ -44,7 +44,7 @@ These laws provide a comprehensive framework for understanding and changing beha
 
 ## Author
 
-Developed with ❤️ by **Sudhanshu Juneja** *Connect with me on [LinkedIn](www.linkedin.com/in/sudhanshu-juneja)
+Developed with ❤️ by **Sudhanshu Juneja** *Connect with me on [LinkedIn](https://linkedin.com/in/sudhanshu-juneja)
 
 ##  Disclaimer
 This project was developed as part of an **AI Internship Challenge**. All book contents are used for educational and demonstration purposes only.
