@@ -8,8 +8,13 @@ An advanced RAG (Retrieval-Augmented Generation) application built with **Django
 - **Chat Interface:** ![Chat Screenshot](./screenshots/ui_2.png)
 - **AI Response:** ![AI Response Screenshot](./screenshots/ui_3.png)
 
-## 🛠️ Setup Instructions
-1. **Clone Repo:** `git clone <your-repo-link>`
+##  Setup Instructions
+1. ## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/sudhanshujunejalinkedin/ai-book-insight-platform.git](https://github.com/sudhanshujunejalinkedin/ai-book-insight-platform.git)
+cd ai-book-insight-platform
 2. **Backend Setup:**
    - `cd backend`
    - `pip install -r requirements.txt`
