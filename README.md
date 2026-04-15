@@ -4,15 +4,16 @@ An advanced RAG (Retrieval-Augmented Generation) application built with **Django
 
 ## Screenshots
 *(Screenshots yahan upload karke unke link daal dena)*
-- **Dashboard:** ![Dashboard Screenshot](\screenshots\ui_1.png)
-- **Chat Interface:** ![Chat Screenshot](.\screenshots\ui_2.png)
-- **AI Response:** ![AI Response Screenshot](.\screenshots\ui_3.png)
+- **Dashboard:** ![Dashboard Screenshot](./screenshots/ui_1.png)
+- **Chat Interface:** ![Chat Screenshot](./screenshots/ui_2.png)
+- **AI Response:** ![AI Response Screenshot](./screenshots/ui_3.png)
 
 ## 🛠️ Setup Instructions
 1. **Clone Repo:** `git clone <your-repo-link>`
 2. **Backend Setup:**
    - `cd backend`
    - `pip install -r requirements.txt`
+   - Create `.env` file and add `GROQ_API_KEY=your_key_here`
    - `python manage.py migrate`
    - `python seed_data.py` (To load books)
    - `python manage.py runserver`
