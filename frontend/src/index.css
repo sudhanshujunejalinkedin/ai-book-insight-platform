@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-[#0f172a];
+  }
+}
+
+/* Bullet Point Styles for Internship-Ready UI */
+.prose ul {
+  list-style-type: disc !important;
+  margin-left: 1.5rem !important;
+  @apply space-y-2 my-4;
+}
+
+.prose li {
+  @apply text-slate-300 leading-relaxed;
+}
+
+.prose strong {
+  @apply text-white font-bold border-b border-indigo-500/30;
+}
+
+.prose h1, .prose h2, .prose h3 {
+  @apply text-white font-bold mt-6 mb-4;
+}
+/* Markdown Links Styling */
+/* Markdown ke andar ke links ko Pro look dene ke liye */
+.prose a {
+  @apply text-indigo-400 font-extrabold underline decoration-2 decoration-indigo-500/50 hover:text-indigo-300 hover:decoration-indigo-400 transition-all;
+}
+
+/* User ke message mein agar link ho */
+.bg-indigo-600 a {
+  @apply text-white underline decoration-white/50;
+}
