@@ -14,6 +14,7 @@ An advanced RAG (Retrieval-Augmented Generation) application built with **Django
 ### 1. Clone the Repository
 git clone [https://github.com/sudhanshujunejalinkedin/ai-book-insight-platform.git](https://github.com/sudhanshujunejalinkedin/ai-book-insight-platform.git)
 cd ai-book-insight-platform
+
 2. **Backend Setup:**
    - `cd backend`
    - `pip install -r requirements.txt`
